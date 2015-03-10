@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicatorview">
+        <attr name="maxMove" format="float"></attr>
+        <attr name="currentMove" format="float"></attr>
+        <attr name="colorOn" format="color"></attr>
+        <attr name="colorOff" format="color"></attr>
+        <attr name="scaleColor" format="color"></attr>
+        <attr name="textSizeScale" format="dimension"></attr>
+        <attr name="textSizeRead" format="dimension"></attr>
+    </declare-styleable>
+</resources>

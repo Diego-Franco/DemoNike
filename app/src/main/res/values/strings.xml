@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoNike</string>
+
+    <string name="action_info">Info</string>
+
+    <string name="publish_key">pub-c-b774aa85-d5b2-485c-a684-1a8818d5e42e</string>
+    <string name="subscribe_key">sub-c-dfd35cdc-c6bb-11e4-9c4e-0619f8945a4f</string>
+
+    <string name="dialog_title">Application Info</string>
+    <string name="dialog_msg">This application was developed by Diego Franco, if you want know more about me, you can send a email defch@hotmail.com</string>
+</resources>

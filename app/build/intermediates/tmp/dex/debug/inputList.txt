@@ -1,0 +1,6 @@
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/classes/debug
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-06ebb1ba0fa3dbd38981e86c54babd67106db773.jar
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/pre-dexed/debug/Pubnub-Android-3.7.2-1ca06736c389f1a0a9efcaba2a42ab24d6100ac0.jar
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-06e58dcaeb13040ffd1bb3996e8dba2968a7fa07.jar
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/pre-dexed/debug/classes-5f07dc68fe1f0e89962b9c44d32972edad99cd2b.jar
+/Users/DiegoFranco/AndroidStudioProjects/DemoNike/app/build/intermediates/pre-dexed/debug/classes-f78de613876b9283578ca4695d3d067b5ce8bccd.jar

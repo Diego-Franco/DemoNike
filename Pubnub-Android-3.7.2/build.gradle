@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('Pubnub-Android-3.7.2.jar'))

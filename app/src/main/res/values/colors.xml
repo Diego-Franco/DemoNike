@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="nike_y">#FFF7FE2E</color>
+    <color name="nike_g">#FF40FF00</color>
+    <color name="nike_r">#FFFF0000</color>
+    <color name="nike_bl">#FF0040FF</color>
+    <color name="nike_p">#FF8000FF</color>
+    <color name="nike_pi">#FFFF00FF</color>
+    <color name="nike_b25">#40000000</color>
+    <color name="nike_b50">#80000000</color>
+    <color name="nike_b75">#BF000000</color>
+    <color name="nike_b100">#FF000000</color>
+
+    <color name="primary_color">#FF8000FF</color>
+    <color name="primary_dark">#BF8000FF</color>
+    <color name="accent">#808000FF</color>
+
+</resources>

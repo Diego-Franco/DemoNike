@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".Main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center">
+
+            <com.defch.demonike.ui.IndicatorView
+                android:id="@+id/indicatorY"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:maxMove="10"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:gravity="center">
+
+            <com.defch.demonike.ui.IndicatorView
+                android:id="@+id/indicatorX"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:maxMove="10"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center">
+
+            <com.defch.demonike.ui.IndicatorView
+                android:id="@+id/indicatorZ"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:maxMove="10"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
